@@ -2,7 +2,7 @@
 <h4 align="center">NextLevelWeek 1.0 🚀</h4>
 
 ## :computer: Project
-__Ecoleta__ is a project that connects people to companies that collect waste that is harmful to the environment.
+__Ecoleta__ is a project that connects people with companies that collect waste that cannot be disposed of in ordinary garbage. In the international environment week, a project was developed that allows merchants to make themselves available so that their establishment can become a collection point for this waste, with lamps, cooking oil, batteries, cardboard and others.
 </br>
 </br>
 <p align="center">
