@@ -16,6 +16,10 @@ __Ecoleta__ is a project that connects people to companies that collect waste th
 
 - [TypeScript](https://github.com/Microsoft/TypeScript)
 - [Express](https://github.com/expressjs/express)
+- [CORS](https://expressjs.com/en/resources/middleware/cors.html)
+- [Axios](https://github.com/axios/axios)
+- [Knex.js](http://knexjs.org/)
+- [SQLite3](https://github.com/mapbox/node-sqlite3)
 - [React](https://github.com/facebook/react)
 - [React Native](https://github.com/facebook/react-native)
 - [React-Leaflet](https://github.com/PaulLeCam/react-leaflet)
