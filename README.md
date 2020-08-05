@@ -1,4 +1,4 @@
-<p align="center"><img src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/42815135/83976057-f0352c00-a8cd-11ea-88da-22ff672ce842.png"/></p>
 <h4 align="center">NextLevelWeek 1.0 🚀</h4>
 
 ## :computer: Project
